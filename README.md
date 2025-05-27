@@ -1,8 +1,7 @@
 # 🛒 Shopping List App – UIKit
 
 > ⚠️  I completed this project without access to a macOS device or Xcode, simply because I currently don’t own one.
-
-Despite that, I wanted to demonstrate my skills and commitment by manually writing all the code, structuring the app fully with UIKit, and following the test instructions precisely — from UI layout to app logic and architecture.
+Despite that, I wanted to demonstrate my skills and commitment by manually writing all the code, structuring the app fully with UIKit, and following the test instructions precisely — from UI layout to app logic and architecture .
 ---
 
 ## 🎯 Objective
