@@ -1,8 +1,8 @@
 # 🛒 Shopping List App – UIKit
 
-> ⚠️ This project was built **without access to macOS or Xcode**.  
-> I manually structured the entire iOS application using UIKit, following the test requirements as closely as possible — building all source files, logic, and UI layout **from scratch**.
+> ⚠️  I completed this project without access to a macOS device or Xcode, simply because I currently don’t own one.
 
+Despite that, I wanted to demonstrate my skills and commitment by manually writing all the code, structuring the app fully with UIKit, and following the test instructions precisely — from UI layout to app logic and architecture.
 ---
 
 ## 🎯 Objective
@@ -45,8 +45,3 @@ Although not required for the selected bonus, I also implemented:
 > ⚠️ Due to not having access to macOS/Xcode, `CoreData` could not be implemented. I used `UserDefaults` to simulate multi-user persistence, encoding data with `Codable`. In a real project, I would migrate to `CoreData`.
 
 ---
-
-## 🧱 Project Architecture
-
-The app follows a **modular MVC architecture**, structured as:
-
